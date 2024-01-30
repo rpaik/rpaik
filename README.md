@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-    ```HTML
+    HTML
     <p>
       <img src="https://api.vaunt.dev/v1/github/entities/rpaik/achievements?format=svg&limit=3" width="350" />
     </p>
-    ```
