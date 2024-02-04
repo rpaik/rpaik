@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-    <img src="https://api.vaunt.dev/v1/github/entities/rpaik/achievements?format=svg&limit=3&raw=true" width="400" />
+    <img src="https://api.vaunt.dev/v1/github/entities/rpaik/achievements?format=svg&limit=3&raw=true" width="450" />
 </p>
